@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   tool capture the PostgreSQL query and response messages, and do analysis
   on the captured data. provide many analysis metrics, help investigate 
   database performance issues.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "postgresrecorder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xiaosongwang
 github_username:  xiaosongwang
