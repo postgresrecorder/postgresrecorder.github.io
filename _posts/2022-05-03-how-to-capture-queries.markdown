@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "how to capture queries!"
 date:   2022-05-03 11:59:00 +0800
 categories: jekyll update
 ---
